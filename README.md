@@ -5,7 +5,7 @@
 Dynamic MERN Full Stack Web Developer with 1200+ hours of coding experience. Proficient in JavaScript, React, Node.js, and MongoDB. Proven ability in executing solo and collaborative projects. A dedicated and fast learner, poised to bring valuable contributions to innovative web development teams.
 
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://tekkieuni.com/wp-content/uploads/2020/04/Coding.jpg" alt="img" style="margin: 0 auto;"/>
 </div>
 
