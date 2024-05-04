@@ -2,8 +2,9 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/sonali-burman-363549261/">Sonali Burman 💻</a>!
 </h2>  
  I'm a seasoned full-stack web developer with over 1500+ hours dedicated to crafting dynamic and responsive applications, specializing in the MERN stack. My passion for innovation drives me to continuously explore new technologies and push the boundaries of what's possible in web development.
+ 
 
-Interested in learning more about my professional background and skills? Let's connect on LinkedIn. Thanks for visiting!
+Interested in learning more about my professional background and skills? Let's connect on <a href="https://www.linkedin.com/in/sonali-burman-363549261/" target="_blank">LinkedIn</a>. Thanks for visiting!
 
 
 <img align="center" alt="Coding" height="500px" width="100%" style="text-align:center" src="https://i.pinimg.com/736x/c6/a1/68/c6a168e11cf44035ad5d12279187cf52.jpg"> 
