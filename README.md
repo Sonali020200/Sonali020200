@@ -6,7 +6,7 @@
 Interested in learning more about my professional background and skills? Let's connect on LinkedIn. Thanks for visiting!
 
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://i.pinimg.com/736x/c6/a1/68/c6a168e11cf44035ad5d12279187cf52.jpg"> 
+<img align="center" alt="Coding" height="500px" width="100%" style="text-align:center" src="https://i.pinimg.com/736x/c6/a1/68/c6a168e11cf44035ad5d12279187cf52.jpg"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sonali020200&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
  
       
@@ -76,4 +76,3 @@ Interested in learning more about my professional background and skills? Let's c
 <h2 align="left">⚡Activity Graph:</h2>
 <a href="https://github.com/Sonali020200"><img alt="Sonali020200 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sonali020200&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
 <br> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonali-burman-363549261/)
