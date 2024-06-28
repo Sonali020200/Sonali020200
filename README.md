@@ -12,6 +12,7 @@ Interested in learning more about my professional background and skills? Let's c
 
 
 
+
 <img align="center" alt="Coding" height="500px" width="100%" style="text-align:center" src="https://i.pinimg.com/736x/c6/a1/68/c6a168e11cf44035ad5d12279187cf52.jpg"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sonali020200&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
  
