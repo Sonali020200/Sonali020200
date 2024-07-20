@@ -13,6 +13,7 @@ Interested in learning more about my professional background and skills? Let's c
 
 
 
+
 <img align="center" alt="Coding" height="500px" width="100%" style="text-align:center" src="https://www.webdevelopersnotes.com/wp-content/uploads/programming-is-thinking.png"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sonali020200&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
  
